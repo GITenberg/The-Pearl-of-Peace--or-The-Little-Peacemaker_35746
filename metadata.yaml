@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31136
     wikipedia: http://en.wikipedia.org/wiki/Harriette_Newell_Woods_Baker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35746#The-Pearl-of-Peace--or-The-Little-Peacemaker
 gutenberg_issued: '2011-04-01'
 gutenberg_type: Text
 identifiers:
